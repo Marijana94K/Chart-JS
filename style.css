@@ -1,0 +1,22 @@
+* {
+    margin: 0;
+    padding: 0;
+    background-color: rgb(255, 237, 237);
+}
+
+h1 {
+    font-family: sans-serif;
+    text-align:left ;
+    margin-top: 10px;
+    margin-left: 10px;
+    color: rgb(174, 174, 174);
+}
+
+canvas {
+   margin-top: 10px;
+   padding: 55px;
+}
+
+#pieChart {
+    padding: 100px;
+}
